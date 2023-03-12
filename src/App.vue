@@ -2,6 +2,7 @@
   <nav>
     <router-link to="/">branch2</router-link> |
     <router-link to="/about">About</router-link>
+    <span>b4</span>
   </nav>
   <router-view/>
 </template>
