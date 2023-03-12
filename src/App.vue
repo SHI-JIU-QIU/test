@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">branch3</router-link> |
-    <router-link to="/about">About3</router-link>
+    <router-link to="/">branch2</router-link> |
+    <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
 </template>
