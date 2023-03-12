@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">branch3</router-link> |
+    <router-link to="/">branch3.1</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
